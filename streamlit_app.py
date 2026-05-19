@@ -12,7 +12,7 @@ st.write(
 #import streamlit as st
 
 name_of_order = st.text_input('Name On New Smoothie:')
-st.write('The Name Of Your Smoothie Will Be:', name_of_order)
+st.write('Thats Good,The Name Of Your Smoothie Will Be:', name_of_order)
 
 
 #option = st.selectbox(
